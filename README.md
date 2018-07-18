@@ -4,6 +4,5 @@ This is a one page parallax website simple is just to give you and idea of how i
 
 
 # PREVIEW
-[[https://ibb.co/kPCZry|alt=Parallax]]
 
-![](https://ibb.co/kPCZry?raw=true)
+![Parallax](https://ibb.co/kPCZry)
